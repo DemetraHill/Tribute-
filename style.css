@@ -1,0 +1,50 @@
+header{
+    font-size: larger;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("/resources/juneteenth-africanamerican-independence-day-june-260nw-1977816890.jpg");
+    height: 200px
+}
+
+h2{
+    font-size: larger;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: red;
+    font-weight: bolder;
+}
+
+p{
+    font-style: oblique;
+    font-size: larger;
+    text-align: center;
+}
+
+
+h4{
+    font-size: larger;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: red;
+}
+
+#girls{
+    margin-top: auto;
+    text-align: right;
+}
+
+#women{
+    text-align: left;
+}
+
+#man{
+    text-align: right;
+}
+
+#woman{
+    text-align:l left;
+}
+
+#child{
+    text-align: left;
+}
